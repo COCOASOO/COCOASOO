@@ -19,11 +19,15 @@ Hello! I'm Adrián Alarcón Muñoz, a FullStack Developer with a passion for lea
 # 🌟 Projects:
 Here are some of the projects I've worked on:
 
-### Project 1: League Creator
+### Project 2: Pasteles de pañales
+#### [Repo](https://github.com/COCOASOO/pasteles-panales) | [Web](https://www.pastelesdepañales.es/)
+Customized e-commerce to redirect customer traffic to WhatsApp, with super original and creative designs to surprise newborns.
+
+### Project 2: League Creator
 #### [Repo](https://github.com/AdrolieCharrian/league_creator) | [Web](https://league-creator-eight.vercel.app/)
 The Ultimate League & Team Manager is a dynamic web application designed to facilitate the creation and management of sports leagues and teams. It offers a user-friendly interface for organizing league schedules, team rosters, and match results. This platform is ideal for sports enthusiasts and organizers looking to streamline the administration of their leagues.
 
-### Project 2: CombsCut
+### Project 3: CombsCut
 #### [Repo](https://github.com/COCOASOO/Combscut) | [Web](https://sample-service-name-u09h.onrender.com/)
 
 CombsCut is a comprehensive platform designed for client-company interactions, specifically catering to the hairdressing industry. It enables customers to easily book hairdressing services, streamlining the appointment scheduling process for both clients and service providers.
